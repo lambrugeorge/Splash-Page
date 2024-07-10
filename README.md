@@ -1,5 +1,5 @@
 # 🌟 Splash Page
-[View the live project here](https://lambrugeorge.github.io/Drag-and-drop/)
+[View the live project here](https://lambrugeorge.github.io/Splash-Page/)
 ## 📄 Description
 
 This is a splash page created to showcase the design and functionality of a landing page for a mobile application. The page includes the brand logo, an engaging title, an introductory text, buttons for downloading the app from the App Store and Google Play, and images illustrating the app.
