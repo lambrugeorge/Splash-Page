@@ -9,7 +9,7 @@ This is a splash page created to showcase the design and functionality of a land
 - **HTML5**: The basic structure of the webpage.
 - **CSS3**: Styling of the page, including layout and responsive design.
 - **Google Fonts**: The Lato font used for text styling.
-- **JavaScript (optional)**: For additional interactivity in `script.js`.
+- **JavaScript**: For additional interactivity in `script.js`.
 
 ## 🚀 How to Use
 
